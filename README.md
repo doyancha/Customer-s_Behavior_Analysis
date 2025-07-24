@@ -41,17 +41,29 @@ The dataset contains customer-level transaction and behavior data with the follo
 
 ## 📁 Project Structure
 📦 Customer-Behavior-Analysis
+
 │
+
 ├── 📊 data/
+
 │ └── customer_data.csv
+
 │
+
 ├── 📓 notebooks/
+
 │ └── EDA_and_Insights.ipynb
+
 │
+
 ├── 📈 visuals/
+
 │ └── plots, bar charts, pie charts, etc.
+
 │
+
 ├── 📄 README.md
+
 └── requirements.txt
 
 ---
